@@ -1,0 +1,38 @@
+.body{
+     background-color: gray;
+}
+
+.cabeçalho{
+    background-color: gray;
+}
+
+.cristianismo {
+    background-image: url(../assets/image/fundo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0px;
+
+}
+.crist {
+    background-color: white;
+    color: black;
+    
+
+
+}
+
+.titulo{
+    font-size: 24px;
+}
+
+.name {
+    
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    border-bottom: black;
+    padding-bottom: 10px;
+    margin-top: 10px;
+
+}

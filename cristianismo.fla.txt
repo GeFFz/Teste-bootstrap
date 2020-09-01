@@ -1,0 +1,24 @@
+1.   ActionScript =>  Layer: Ações => Frame: 1
+
+Cristianismo
+
+
+2.  Layer: txt => Frame: 1
+
+Roma incorporou e transmitiu à nossa sociedade a nova concepção religiosa, originária do monoteísmo judaico, que se transformou na grande força espiritual do Ocidente: o Cristianismo. O cristianismo é uma religião monoteísta baseada na vida e nos ensinamentos de Jesus Cristo de Nazaré. Navegue usando a linha do tempo abaixo e conheça mais sobre cada uma dessas etapas.
+
+3. Component => Instancia:  => Layer: txt => Frame: 1
+
+tipTexto = Para mudar de datas você pode:<br><br>  1 – Arrastar o cursor até a data desejada.<br>  2 – Clicar sobre uma nova data.<br><br>As setas laterais farão surgir novas datas que<br>estão ocultas. Clique sobre elas, também.
+
+
+=== Biblioteca ===
+
+4. Core Assets - Developer Only/Component Version  =>  Layer: actions => Frame: 1
+
+Flash Components Version 6.0_r24 03.07.02 
+
+
+
+==== XML ====
+
